@@ -7,7 +7,7 @@ yarn-error.log
 .vscode
 
 # idea
-.idea/
+.idea
 
 #yarn
 yarn.lock

@@ -1,10 +1,17 @@
-<p align="center"><a href="https://xugaoyi.com/" target="_blank" rel="noopener noreferrer"><img width="180" src="https://jsd.cdn.zzko.cn/gh/xugaoyi/image_store/blog/20200409124835.png" alt="logo"></a></p>
+# vuepress vdoing 简略版模版
 
+## 项目介绍
 
-<h2 align="center">vuepress-theme-vdoing</h2>
+项目使用的是vuepress1框架+vdoing主题，可以用来做官方介绍、产品介绍等。完全纯净版，不含花里胡哨的插件，可以直接使用。
 
-[在线文档(国内源)](https://doc.xugaoyi.com/)
+## 安装部署
 
-[主题仓库](https://github.com/xugaoyi/vuepress-theme-vdoing)
+1. star后下载当前项目。
+2. `yarn install` 下载依赖
+3. `yarn dev` 启动项目
+4. `yarn deploy` 部署项目到分支“gh-pages”
 
-[本仓库的gitee镜像](https://gitee.com/xugaoyi/vuepress-theme-vdoing-doc)
+## 其他描述
+
+1. 配置上有疑问可以查看[vuepress官网](https://v1.vuepress.vuejs.org/zh/)和[vdoing官网](https://doc.xugaoyi.com/)。
+2. 添加插件、优化可以查看郭顺发个人网站，[guoshunfa.com](https://guoshunfa.com/)。
